@@ -1,0 +1,190 @@
+body{
+	background-image: url(bg.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-right: 22%;
+	margin-left: 22%;
+	margin-top: 10%; 	
+}
+
+
+h1{
+	color: #4e598c;
+}
+
+h3{
+	color: #bababc;
+	font-size: 1.4rem;
+	font-weight: 500;
+}
+
+.current{
+	color: #f2994a;
+	font-weight: 500;
+}
+
+hr{
+	color: black;
+	height: 3rem;
+	width: 100%;
+}
+
+
+div>label{
+	color:black;
+	font-weight: 700;
+}
+
+span{
+	color:red;
+}
+
+.form-control-lg {
+ 	height: calc(1.5em + 1rem + 8px);
+    border-radius: .5rem;
+}
+
+.form-control{
+
+ border: 1px solid #4e598c;
+}
+   
+
+.center{
+	text-align: center;
+}
+
+
+a{
+	color: #4e598c;
+
+}
+
+.btn {
+  text-align: center;
+  transition: 0.5s;
+  width: auto;
+  background-size: 100% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  height: 65px;
+ }
+
+
+.btn:hover {
+  background-position: right center; /* change the direction of the change here */
+}
+
+.btn-1 {
+  background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+}
+
+.blackLine{
+	border: 1px solid black;
+	width: 95%;
+	margin:0 auto;
+	opacity: 50%;
+	margin-bottom: 3%;
+	margin-top: -5px;
+	z-index: -1;
+
+
+}
+.onThis{
+	border: 5px solid #f2994a;
+	border-radius: 5px;
+	width: 110px;
+	margin-top: 30px;
+
+
+}
+
+.top{
+	margin-top: 7%;
+	width: 100%;
+	height: 80px;
+	background-color: #2f80ed;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.1);
+	}
+
+.bottom{
+	background-color: white;
+	width: 100%;
+	height: 500px;
+	border: 1px solid white;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.1);
+	border-radius: 10px;
+}	
+
+.shiftL{
+margin-left: 10%;
+margin-top:4%;
+color:white;	
+}
+
+.shiftR{
+	margin-right: 10%;
+	margin-top:4%;
+	color: white;
+}
+
+.tableItems{
+	color: #4e598c;
+	font-size: 18px;
+
+}
+
+.line{
+	width:90%;
+	margin:0 auto;
+	height: 0.01rem;
+	background-color: black;
+}
+
+h4{
+	font-size: 1.1rem;
+}
+
+.boxx{
+	border-radius: 5px;
+	padding: 10px;
+}
+.border-dark{
+border-color:#4e598c;
+}
+
+.cancelp{
+	font-weight: 700;
+}
+
+.pc{
+	color: #4e598c;
+	font-size: 3.5rem;
+	font-weight:700;
+}
+
+.shift{
+	margin:90px;
+}
+
+
+.checkMail{
+	font-size: 1.3rem;
+}
+
+.returnHome{
+	font-size: 1.3rem;
+	color: #f2994a;
+	text-decoration: underline;
+		}
+
+.center{
+	display: block;
+	border-radius: 50px;
+	margin-left: 240px;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.1);
+}
